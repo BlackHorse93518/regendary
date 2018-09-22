@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="369" width="538.5">
+  <defs>
+    <path id="path-0" opacity="1" d="M160,318 L484.5,128 L426,128 L160,282.5 L160,318Z"/>
+    <path id="path-1" opacity="1" d="M155,369 L493.5,170 L434.99999999999994,170 L158,332.3156565656566 L155,369Z"/>
+    <path id="path-2" opacity="1" d="M0,360 L324.5,170 L266,170 L0,324.5 L0,360Z"/>
+    <path id="path-3" opacity="1" d="M214,190 L538.5,0 L480,0 L214,154.5 L214,190Z"/>
+  </defs>
+  <g opacity="1">
+    <g opacity="1">
+      <use xlink:href="#path-0" fill="rgb(20,25,32)" fill-opacity="1"/>
+    </g>
+    <g opacity="1">
+      <use xlink:href="#path-1" fill="rgb(27,23,26)" fill-opacity="1"/>
+    </g>
+    <g opacity="1">
+      <use xlink:href="#path-2" fill="rgb(23,21,32)" fill-opacity="1"/>
+    </g>
+    <g opacity="1">
+      <use xlink:href="#path-3" fill="rgb(27,26,26)" fill-opacity="1"/>
+    </g>
+  </g>
+</svg>

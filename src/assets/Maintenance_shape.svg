@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="207.58195175478795" width="216.11621138895043">
+  <defs>
+    <path id="path-0" opacity="1" d="M66.42772819394779,176.91982252230957 C130.42772819395034,108.41982252230923 158.9215449175465,167.16694677657165 178.42772819394887,141.4198225223093 C189.19348381472886,127.20959780886804 134.07903182749078,72.99131577264181 55.42772819394867,20.419822522308777 C26.17623189576473,144.60070303345947 31.105166626330337,214.7260017001488 66.42772819394779,176.91982252230957Z"/>
+    <linearGradient id="linearGradient-1" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="1" stop-color="rgb(255,47,47)" stop-opacity="1"/>
+      <stop offset="0" stop-color="rgb(255,107,107)" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(108.05810569447519, 103.79097587739427) rotate(60.00002145385002) translate(-108.05810569447519, -103.79097587739427)" opacity="1">
+    <use xlink:href="#path-0" fill="url(#linearGradient-1)" fill-opacity="1"/>
+  </g>
+</svg>
