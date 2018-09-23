@@ -1,7 +1,8 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Dashboard from './views/Dashboard'
-import Billing from './views/Billing'
+import Dashboard from './views/DashboardPage'
+import Billing from './views/BillingPage'
+import Parental from './views/ParentalPage'
 
 
 Vue.use(Router)
@@ -13,7 +14,7 @@ export default new Router({
     {
       path: '/',
       name: 'dashboard',
-      component: Dashboard
+      redirect: '/dashboard'
     },
     {
       path: '/dashboard',
@@ -22,6 +23,10 @@ export default new Router({
     {
       path: '/billing',
       component: Billing
+    },
+    {
+      path: '/parental',
+      component: Parental
     }
     // {
     //   path: '/about',
