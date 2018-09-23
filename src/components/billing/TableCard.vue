@@ -90,14 +90,14 @@ export default {
             input{
                 height: 44px;
                 background-color: #22252c;
-                color: #848588;
+                color: #fff;
                 border:none;
                 border-radius: 3px;
                 outline: none;
                 padding-left:10px;
             }
             input::placeholder{
-                color:#16171c;
+                color:#848588;
             }
 
         }

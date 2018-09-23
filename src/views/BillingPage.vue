@@ -47,7 +47,6 @@ export default {
         UsageCard,
         PolicyCard,
         BarChart
-
     }
     
 }
@@ -73,7 +72,7 @@ export default {
             }
             
             .row{
-                margin-top:50px;
+               
                 margin-bottom:50px;
                 .col {
                     margin-top:50px;
