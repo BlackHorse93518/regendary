@@ -54,6 +54,9 @@ export default {
                 font-size:14px;
                 font-family: "OpenSans Bold";
                 padding:10px 20px;
+                border:none;
+                outline:none;
+                border-radius: 2px;
                 
             }
         }

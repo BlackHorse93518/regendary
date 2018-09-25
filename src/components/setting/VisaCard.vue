@@ -32,7 +32,7 @@ export default {
 <style lang="scss" scoped>
     .active-card{
         max-width:370px;
-        border-radius: 8px;
+        border-radius: 4px;
         background-color: #2e63ff;
         padding:20px;
         
